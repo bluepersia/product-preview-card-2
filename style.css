@@ -23,4 +23,34 @@ body {
 
 
 
+/* Typography */
+
+.c {
+    font-weight: 500;
+    color: var(--c-AurometalSaurus);
+    line-height: 1.6;
+    font-family: "Montserrat", sans-serif;
+}
+
+.c__overline 
+{
+    font-size: .85rem;
+}
+
+.c h1 
+{
+    font-size: 2.28rem;
+    line-height: 1;
+    font-family: "Fraunces", serif;
+}
+
+.c__price-original 
+{
+    font-size: .92rem;
+}
+
+.c__btn
+{
+    font-weight: bold;
+}
 
