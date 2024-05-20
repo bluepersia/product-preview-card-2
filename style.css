@@ -35,6 +35,8 @@ body {
 .c__overline 
 {
     font-size: .85rem;
+    letter-spacing: .4em;
+    text-transform: uppercase;
 }
 
 .c h1 
@@ -47,6 +49,7 @@ body {
 .c__price-original 
 {
     font-size: .92rem;
+    text-decoration: line-through;
 }
 
 .c__btn
