@@ -1,0 +1,23 @@
+:root
+{
+    --c-PureWhite: white;
+    --c-Cream: #F2EAE2;
+    --c-AurometalSaurus: #6C7289;
+    --c-DeepAquamarine: #3D8168;
+    --c-DeepAquamarineHover: #1A4032;
+    --c-Gunmetal: #1C232B;
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--c-Cream);
+    padding: 0 3.7%;
+}
+
